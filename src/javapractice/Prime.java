@@ -14,7 +14,7 @@ public class Prime {
        int i;
        int m = 0;
        int flag = 0;
-       int n = 123;
+       int n = 20;
        m = n/2;
        
 //        if (n == 0|| n==1) {
